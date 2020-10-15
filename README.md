@@ -1,0 +1,1 @@
+# Imagemin-GH-Action
